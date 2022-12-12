@@ -1,9 +1,15 @@
 # JohnLewis_WebScraping
 Fetching product details from John Lewis API
+
 In order to get all products information from the Home page John Lewis API with coffee machine, I have used Selenium package in Python by taking the advantage of scrollHeight
+
 Dumped the details in a table called Product_details using SQLite3, it contains [Product_ID],[Brand],[Product_name],[Price],[Ratings],[Reviebws],[Promotions],[Product_link]
+
 Gathered each product specifications using Beautiful soup and Requests library.
+
 Dumped the data in Product_specifications table
+
+
 
 
 Also, can find the data in SSMS tables
